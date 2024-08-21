@@ -22,7 +22,7 @@ mình đã exploit bằng extension JWT editor trog burp suite ở 1 bài wu kh�
 
 ở bài viết này mình sẽ dùng tool jwt_tool, ae gõ google là ra, down và chạy như mình nhé
 
-![image](../image/24.6.png.png)
+![image](../image/24.6.png)
 ![image](../image/24.7.png)
 ![image](../image/24.8.png)
 
