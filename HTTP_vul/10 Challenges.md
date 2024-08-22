@@ -160,7 +160,7 @@ tiến hành exploit
 
 ae tự tìm hiểu thêm về `X-Forwarded-For` nhóoo :v 
 
-xong mấy cái HTTP ở rootme roàii
+xong mấy cái HTTP ở rootme roàii, 10 chall này mình vừa ngồi vừa làm vừa viết wu trong vòng 2 tiếng buổi sáng, tự nhiên dở hơi dậy sớm ngồi chill chill =))) , nên có thiếu sót gì ae thông cảm nha 
 `soong1002`
 
 
